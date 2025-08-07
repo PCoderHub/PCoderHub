@@ -21,6 +21,14 @@ Aspiring Full Stack Developer with a Master's in Software Development and a Bach
 
 ---
 
+## 📫 Get in Touch
+
+<!--- 🌐 [Portfolio](https://yourportfolio.com)  -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/poojapbalachandran)  
+- 📧 Email: poojapbalachandran@gmail.com
+
+
+
 <!--
 **PCoderHub/PCoderHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
